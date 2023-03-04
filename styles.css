@@ -1,0 +1,111 @@
+body{
+    margin: 0px;
+    text-align: center;
+    padding-bottom: 25px;
+    background-image: url(wallparer/5356171.jpg);
+}
+.top-container{
+    margin:auto;
+    width: 50%;
+    position: relative;
+    padding: 25px 0px;
+}
+.vpts-logo{
+    float: left;
+    margin: auto;
+}
+.vpts-logo-our{
+    float: right;
+    margin: auto;
+}
+.vpts-name{
+    text-align: center;
+    margin: auto;
+    padding-top: 30px;
+}
+.vpts-name2{
+    text-align: center;
+    margin: auto;
+    padding: 0;
+}
+hr{
+    border-style: dotted none none;
+    border-color: black;
+    border-width: 5px;
+    width:50%;
+    margin: 20px auto;
+}
+.navbar{
+    width: 50%;
+    margin: auto;
+}
+.billboard{
+    width: 50%;
+    margin: auto;
+    border: solid black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.about-us{
+    width: 50%;
+    margin: auto;
+    border: solid black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer{
+    position: relative;
+    width: 50%;
+    height: 200px;
+    border: solid ;
+    margin: auto;
+}
+.adresa{
+    position: absolute;
+    right: 25px;
+}
+.linkovi{
+    text-align: center;
+    position: absolute;
+    top: 30px;
+    left: 100px;
+}
+.clan-jedan{
+    margin: 20px auto;
+    width: 50%;
+    border: solid black;
+    height: 150px;
+}
+.slika-jedan{
+    float: left;
+}
+.clan-dva{
+    margin: 20px auto;
+    width: 50%;
+    border: solid black;
+    height: 150px;
+}
+.slika-dva{
+    float: right;
+}
+.nazivi{
+    width: 50%;
+    margin: auto;
+    border: solid black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.info-pro{
+    width: 50%;
+    margin: auto;
+    border: solid black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.rest-pro{
+    width: 50%;
+    margin: auto;
+    border: solid black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
